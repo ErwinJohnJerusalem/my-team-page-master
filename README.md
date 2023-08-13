@@ -26,7 +26,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ErwinJohnJerusalem/my-team-page-master/blob/main/img/My-team-page-preview.png)
 
 - You can see my demo in Netlify
 - My experience is quite fun figuring about the position of the images.
